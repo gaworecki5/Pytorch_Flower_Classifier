@@ -1,2 +1,4 @@
 # Pytorch_Flower_Classifier
-Pre-trained CNN to classifier 102 flower species
+Udacity Pytorch Facebook Challenge
+
+Pre-trained CNN model to classify 102 flower species
